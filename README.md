@@ -47,7 +47,7 @@ Bienvenidos a nuestro proyecto final de grado: un **videojuego 2D de escalada** 
  
 Un vistazo a nuestro juego en movimiento.
 
-[![Hola!](image.png)](https://www.youtube.com/watch?v=M12CcxuWAaI)
+[![Este juego no es](image.png)](https://www.youtube.com/watch?v=M12CcxuWAaI)
 
 ----------
 
